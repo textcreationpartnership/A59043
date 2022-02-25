@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short catchisme being a briefe instruction of the most ignorant before the receiving of the sacrament of the Lord's Supper / by Obadiah Sedgewick.</title>
+            <author>Sedgwick, Obadiah, 1600?-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59043</idno>
+            <idno type="STC">Wing S2380A</idno>
+            <idno type="STC">ESTC R37361</idno>
+            <idno type="EEBO-CITATION">16410291</idno>
+            <idno type="OCLC">ocm 16410291</idno>
+            <idno type="VID">105364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105364)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short catchisme being a briefe instruction of the most ignorant before the receiving of the sacrament of the Lord's Supper / by Obadiah Sedgewick.</title>
+                  <author>Sedgwick, Obadiah, 1600?-1658.</author>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Stephen Bowtell, and are to be sold at the signe of the Bible ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105364:1" rendition="simple:additions"/>
+            <pb facs="tcp:105364:1" rendition="simple:additions"/>
+            <p>A SHORT <hi>CATECHISME:</hi> BEING A briefe Inſtruction of the moſt ignorant, before the receiving of the Sacrament of the <hi>LORDS S<g ref="char:V">Ʋ</g>PPER.</hi>
+            </p>
+            <p>By <hi>Obadiah Sedgewick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Stephen Bowtell,</hi> and are to bee ſold at the figne of the Bible in <hi>Popes-head-alley,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:105364:2"/>
+            <pb facs="tcp:105364:2"/>
+            <head>A BRIEFE INSTRUCTION OF The moſt ignorant, before the receiving of the Sacrament of the <hi>Lords Supper.</hi>
+            </head>
+            <p>
+               <label>Queſt.</label> VVHAT is God?</p>
+            <p>
+               <label>Anſw.</label> God is a moſt<note n="a" place="margin">Hab. 1.13. Rev, 4.8.</note> ho-<note n="b" place="margin">1 King. 8.27. Pſal 139.7.</note> infinite,<note n="c" place="margin">Iob 9.4. Rom. 16.27.</note> wiſe,<note n="d" place="margin">Pſal. 119.68.</note> good, mercifull,<note n="f" place="margin">Eſay 44.21.</note> iuſt, g ſpirituall,<note place="margin">Matth. 19.17.</note> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll-ſufficient,<note n="i" place="margin">Exod. 6.3.</note> being of him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe,<note n="e" place="margin">Pſal. 116.5. Exo. 43.6.</note> and the onely<note n="k" place="margin">Acts <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.</note> Author being to others.<note place="margin">
+                  <gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>any 3.5. Iohn 4.24.</note>
+               <note n="h" place="margin">Gen. 17.1.</note>
+            </p>
+            <p n="2">
+               <pb facs="tcp:105364:3"/>
+               <label>2. Q.</label> How many Gods b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there?</p>
+            <p>
+               <label>A.</label> There is but one one<g ref="char:EOLhyphen"/>ly true God.<note place="margin">1 King. 8.60. Eſa. 44.8. 1 Cor. 8, 6.</note>
+            </p>
+            <p n="3">
+               <label>3. Q.</label> How many perſons ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there?</p>
+            <p>
+               <label>A.</label> Three:<note place="margin">1 Iohn 57.</note> 1. God th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Father, 2. God the Sonn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 3. God the holy Ghoſt.</p>
+            <p n="4">
+               <label>4. Q.</label> How doe theſe thr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> perſons agree?</p>
+            <p>
+               <label>A.</label> Every one of them God.
+<list>
+                  <item>1 The Father is God.<note place="margin">Epheſ. 4.6. Iohn 11. 1 Theſ. 5.23.</note>
+                  </item>
+                  <item>2 The Son is God.</item>
+                  <item>3 The holy Ghoſt God.</item>
+               </list>
+            </p>
+            <p n="5">
+               <label>5. Q.</label> How do theſe th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> perſons differ?</p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>The Father begets.</item>
+                  <item>The Son is begotten.<note place="margin">Pſalm. 2.7, Iohn 1.14. Iohn 14.26. Iohn 15 26</note>
+                  </item>
+                  <item>The holy Ghoſt procee<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> from the Father and Sonne.</item>
+               </list>
+            </p>
+            <p n="6">
+               <pb facs="tcp:105364:3"/>
+               <label>6. Q.</label> Who made man?</p>
+            <p>
+               <label>A.</label> God.<note place="margin">Gen 1.27.</note>
+            </p>
+            <p n="7">
+               <label>7. Q.</label> How did God make man?</p>
+            <p>
+               <label>A.</label> After his<note n="a" place="margin">Gen. 1.26, 27. Epheſ. 4.24.</note> own image <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd likeneſſe,<note n="b" place="margin">Eccleſ. 7.29.</note> holy and righ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eous.</p>
+            <p n="8">
+               <label>8. Q.</label> Did man continue in <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is eſtate?</p>
+            <p>
+               <label>A.</label> No, but<note n="c" place="margin">Eccleſ. 7.29.</note> fell from it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y eating<note n="d" place="margin">Gen 3.6.</note> of the forbidden <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uit.</p>
+            <p n="9">
+               <label>9. Q.</label> What followed up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eating of the forbidden <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uit?</p>
+            <p>
+               <hi>A.</hi> Sin and Death.<note place="margin">Rom. 5. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p n="10">
+               <hi>10. <hi>Q.</hi> What is ſin?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <note place="margin">1 Ioh. 3.4.</note> It is the tranſgreſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Gods Law.</p>
+            <p n="11">
+               <label>11. Q.</label> How many ſorts of are there?</p>
+            <p>
+               <label>A.</label> Two,
+<list>
+                  <item>1. Originall ſin, <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d</item>
+                  <item>2. Actuall ſin.</item>
+               </list>
+            </p>
+            <p n="12">
+               <label>12. Q.</label> What is originall ſin?</p>
+            <p>
+               <pb facs="tcp:105364:4"/>
+               <label>A.</label> It is the univerſal pollution of the heart or na<g ref="char:EOLhyphen"/>ture,<note place="margin">Eph. 21, 2 Jam. 1.14. Eccleſ. 9.3.</note> and an inclination to al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evill.</p>
+            <p n="13">
+               <label>13 Q.</label> What is actuall ſin?</p>
+            <p>
+               <label>A.</label> Evill<note n="a" place="margin">Mat. 9.4.</note> thoughts, evil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note n="b" place="margin">Rom. 1.26.</note> affections, evill<note n="c" place="margin">1 Cor. 15.33.</note> words<g ref="char:punc">▪</g> evill<note n="d" place="margin">John 3.20.</note> actions, all<note n="e" place="margin">Jam 4.17.</note> omiſſion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of good, or commiſſions o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evill.</p>
+            <p n="14">
+               <label>14 Q.</label> What is due to ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ſin?</p>
+            <p>
+               <label>A.</label> Wrath,<note place="margin">Eph. 2.3. Gal. 3.10. Rom. 5.12 2 Theſ. 2.12.</note> curſe, death and damnation.</p>
+            <p n="15">
+               <label>15 Q.</label> Can any ſinner d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>liver<g ref="char:punc">▪</g> himſelfe from this fea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>full and miſerable condition?</p>
+            <p>
+               <label>A.</label> No, for he is<note n="a" place="margin">Eph 2.1.</note> dead i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſins, and<note n="b" place="margin">Rom. 5.6.</note> without ſtrength</p>
+            <p n="16">
+               <label>16 Q.</label> Who is the Savio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Redeemer of ſinners?</p>
+            <p>
+               <label>A.</label> Onely Ieſus Chriſt.</p>
+            <p n="17">
+               <label>17 Q.</label> What was Ieſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chriſt?<note place="margin">1 Tim. 2.5 5. Acts 4 12.</note>
+            </p>
+            <p>
+               <pb facs="tcp:105364:4"/>
+               <label>A.</label> He was both God and man.<note place="margin">1 Joh. 1.14.</note>
+            </p>
+            <p n="18">
+               <label>18 Q.</label> How did Ieſus Chriſt deliver a ſinner from Gods wrath and damnation?</p>
+            <p>
+               <label>A.</label> By a perfect ſatisfacti<g ref="char:EOLhyphen"/>on to Gods Iuſtice,<note place="margin">Rom. 5 18, 19. Gal. 3.13.</note> in his active and paſſive obedience.</p>
+            <p n="19">
+               <label>19 Q.</label> What offices did be<g ref="char:EOLhyphen"/>long to Chriſt as Mediator?</p>
+            <p>
+               <label>A.</label> Three: He was
+<list>
+                  <item>1. A<note n="a" place="margin">Heb. 7.22.</note> Prieſt,</item>
+                  <item>2. a<note n="b" place="margin">Acts 3.22.</note> Prophet,</item>
+                  <item>3. a<note n="c" place="margin">Act. 5.3 1. Pſ. 2.6</note> King.</item>
+               </list>
+            </p>
+            <p n="20">
+               <label>20 Q.</label> What is required of any who ſhall be ſaved by Chriſt?</p>
+            <p>
+               <label>A.</label>
+               <note n="d" place="margin">Mar. 15. Act. 2.38. Luke 3.3.</note> Repentance and<note n="e" place="margin">Joh. 3.16. Act 16.30, 31.</note> Faith.</p>
+            <p n="21">
+               <label>21 Q.</label> What is Repen<g ref="char:EOLhyphen"/>tance?</p>
+            <p>
+               <label>A.</label> Repentance is a tur<g ref="char:EOLhyphen"/>ning of the heart and life from all ſin,<note place="margin">Joel. 2.12, 13. Eſa 55.7. Eſa. 16.17.</note> unto God.</p>
+            <p n="22">
+               <label>22 Q.</label> What is ſaving faith?</p>
+            <p>
+               <pb facs="tcp:105364:5"/>
+               <label>A.</label> It is a<note n="a" place="margin">1 Ioh. 1.12.</note> right recei<g ref="char:EOLhyphen"/>ving of Ieſus Chriſt as Me<g ref="char:EOLhyphen"/>diatour, and a truſting onely on him for<note n="b" place="margin">2 Cor. 5.21.</note> righteouſneſſe,<note n="c" place="margin">Acts 13.38.</note> pardon of ſinnes, and<note n="d" place="margin">1 Ioh 5.11, 12</note> ever<g ref="char:EOLhyphen"/>laſting life.</p>
+            <p n="23">
+               <label>23. Q.</label> What is the means by which faith is wrought?</p>
+            <p>
+               <label>A.</label> By the Word.</p>
+            <p n="24">
+               <label>24 Q.</label> What is the meanes by which Faith and all other Graces are nouriſhed and in<g ref="char:EOLhyphen"/>creaſed?<note place="margin">Rom. 10 17. Epheſ. 1.13</note>
+            </p>
+            <p>
+               <label>A.</label> The Sacrament of the Lords Supper is one of thoſe meanes.</p>
+            <p n="25">
+               <label>25. Q.</label> What is a Sacra<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>A.</label> It is an outward and viſible ſigne,<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 4.11.</note> and ſeale of the Covenant of Grace.</p>
+            <p n="26">
+               <label>26. Q.</label> How many Sacra<g ref="char:EOLhyphen"/>ments are there under the New-Teſtament?</p>
+            <p>
+               <pb facs="tcp:105364:5"/>
+               <label>A.</label> Onely two,
+<list>
+                  <item>1.Bap<g ref="char:EOLhyphen"/>tiſme,<note place="margin">Mat. 28.19. Cor. 11.23, 24</note>
+                  </item>
+                  <item>2. The Lords Sup<g ref="char:EOLhyphen"/>per.</item>
+               </list>
+            </p>
+            <p n="27">
+               <label>27. Q.</label> Which be the out<g ref="char:EOLhyphen"/>ward and viſible ſignes in the Lords Supper?</p>
+            <p>
+               <label>A.</label> Bread and Wine con<g ref="char:EOLhyphen"/>ſecrated.<note place="margin">Luke 22.19.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p n="28">
+               <label>28. Q.</label> What is the Bread a ſigne of?</p>
+            <p>
+               <label>A.</label> Of the body of Chriſt.<note place="margin">1 Cor. 10.16.</note>
+            </p>
+            <p n="29">
+               <label>29. Q.</label> What is the VVine a ſigne of?</p>
+            <p>
+               <label>A.</label> Of the blood of Chriſt.<note place="margin">1 Cor. 10.16.</note>
+            </p>
+            <p n="30">
+               <label>30 Q.</label> VVhat is the thing ſignified in the Sacrament?</p>
+            <p>
+               <label>A.</label> Ieſus Chriſt crucified,<note place="margin">1 Cor. 11.27, &amp;</note> and all the benefits by his death.</p>
+            <p n="31">
+               <label>31. Q.</label> How is Ieſus Chriſt received at the Sacrament?</p>
+            <p>
+               <label>A.</label> Not corporally, for ſo he is in heaven<note n="a" place="margin">Acts 3.21.</note>, but ſpiritu<g ref="char:EOLhyphen"/>ally, and by faith<note n="b" place="margin">Iohn. 6.63.</note>.</p>
+            <p n="32">
+               <pb facs="tcp:105364:6"/>
+               <label>32 Q.</label> What is required of a perſon before he commeth to the Sacrament of the Lords Supper?</p>
+            <p>
+               <label>A.</label> He is to examine him<g ref="char:EOLhyphen"/>ſelfe.<note place="margin">Cor. 11.28.</note>
+            </p>
+            <p n="33">
+               <label>33 Q.</label> Of what is he to exa<g ref="char:EOLhyphen"/>mine himſelfe?</p>
+            <p>
+               <label>A.</label> Eſpecially of three Graces:
+<list>
+                  <item>1. Whether he tru<g ref="char:EOLhyphen"/>ly repents of his ſinnes:</item>
+                  <item>2. Whether he truly beleeves in Ieſus Chriſt:</item>
+                  <item>3. Whether he be in charity.</item>
+               </list>
+            </p>
+            <p n="34">
+               <label>34 Q.</label> How may a man know that he truely repents of his ſins?</p>
+            <p>
+               <label>A.</label> If
+<list>
+                  <item>1 Experimentally hee knows his ſins.<note place="margin">
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erem. 8.6.</note>
+                  </item>
+                  <item>2 He be heartily broken and grieved for his ſins.<note place="margin">
+                        <gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>el 2.13. Zach. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2.10.</note>
+                  </item>
+                  <item>3 He hates all knowne ſinnes.<note place="margin">
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>zek. 36.31.</note>
+                  </item>
+                  <item>
+                     <pb facs="tcp:105364:6"/>
+4 He feareth to commit ſinne.<note place="margin">2 Cor 7.11.</note>
+                  </item>
+                  <item>5 He carefully endevours to forſake all ſin.<note place="margin">Prov. 28.13.</note>
+                  </item>
+                  <item>6 He walks in newneſſe of obedience.<note place="margin">Ro. 6.18. Ro.</note>
+                  </item>
+               </list>
+            </p>
+            <p n="35">
+               <label>35 Q.</label> Why muſt a perſon repent, who commeth to the Sacrament?</p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. He cannot elſe ap<g ref="char:EOLhyphen"/>ply pardoning mercy.<note place="margin">Eſa. 55.7. R<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> 2.5.</note>
+                  </item>
+                  <item>2 He will elſe come un<g ref="char:EOLhyphen"/>worthily,<note place="margin">1 Cor. 11.29.</note> for which God will iudge him.</item>
+               </list>
+            </p>
+            <p n="36">
+               <label>36 Q.</label> How may a man know that he truly beleeves in Jeſus Chriſt?</p>
+            <p>
+               <label>A.</label> If
+<list>
+                  <item>1 His heart hath been broken for ſins.<note place="margin">Acts 2.37, 4 <gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> Eſay 61.1.</note>
+                  </item>
+                  <item>2 He ſeeth a need of Chriſt.<note place="margin">Mat. 15.24.</note>
+                  </item>
+                  <item>3 He be weary of ſin,<note place="margin">Mat. 11.28.</note> and ſo commeth to Chriſt.</item>
+                  <item>
+                     <pb facs="tcp:105364:7"/>
+4 He can prize Chriſt a<g ref="char:EOLhyphen"/>bove all.<note place="margin">
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>lip. 3.8, 9.</note>
+                  </item>
+                  <item>5 He be willing to forſake all,<note place="margin">
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ke 14.26.27.</note> ſo as to enioy Chriſt.</item>
+                  <item>6 He receiveth Chriſt as Lord and Saviour.<note place="margin">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 1.12. Heb. 4.</note>
+                  </item>
+                  <item>7 His heart be purified.<note place="margin">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 15 9.</note>
+                  </item>
+               </list>
+            </p>
+            <p n="37">
+               <label>37 Q.</label> VVhy muſt a man be a Beleever before he commeth to this Sacrament?</p>
+            <p>
+               <label>A.</label> Becauſe,
+<list>
+                  <item>1 This Sacrament is a ſeale onely to faith.</item>
+                  <item>2 He muſt diſcerne the Lords body,<note place="margin">
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or. 11.29.</note> which cannot be done without faith.</item>
+                  <item>3 He can elſe receive no good by this Sacrament from Chriſt.</item>
+               </list>
+            </p>
+            <p n="38">
+               <label>38. Q</label> How may a man know that he is in charity?</p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. If he can heartily forgive wrongs.<note place="margin">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 3.13, 14.</note>
+                  </item>
+                  <item>2 If he can do good for evil.<note place="margin">
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 43, 44.</note>
+                  </item>
+               </list>
+            </p>
+            <p n="39">
+               <pb facs="tcp:105364:7"/>
+               <label>39. Q.</label> VVhat is a perſon to doe at the time of the Sacra<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>A.</label> He is
+<list>
+                  <item>1. to meditate of the greatneſſe of his ſinnes which pierced Chriſt.<note place="margin">Zach. 12.10.</note>
+                  </item>
+                  <item>2 To meditate of the great and wonderful love of God in Chriſt.<note place="margin">Ioh. 3.16. Rom. 5.8.</note>
+                  </item>
+                  <item>3 To meditate of that bit<g ref="char:EOLhyphen"/>ter and accurſed death that Chriſt ſuffered to make peace for his ſoule.</item>
+                  <item>4 To lay hold on Ieſus Chriſt offered unto him,<note place="margin">Mat. 26.28. Phil. 3.10, 11.</note> by faith.</item>
+               </list>
+            </p>
+            <p n="40">
+               <label>40 Q.</label> VVhat is a perſon to doe after he hath received the Sacrament?</p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. He is to be thankfull,<note place="margin">Acts. 8 38, 39 Pſal. 10 3.1, 2</note> if he hath received any good.</item>
+                  <item>2 He is to be humble and
+<pb facs="tcp:105364:8"/>repent,<note place="margin">Cor. 6.1.</note> if he hath received no benefit.</item>
+                  <item>3 He is to be carefull to keepe his Covenant and Vowes.<note place="margin">
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſa 19.21. Pſal. 6.11. Pro. 9.5, 6</note>
+                  </item>
+                  <item>4 He is to be more fruit<g ref="char:EOLhyphen"/>full.<note place="margin">Pet. 3 18. Rom 2.</note>
+                  </item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105364:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
